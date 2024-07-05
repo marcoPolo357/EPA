@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<SpisakLetelica>
+  <Letelica>
+    <RegBr>1</RegBr>
+    <Naziv>H - Teska</Naziv>
+  </Letelica>
+    <Letelica>
+    <RegBr>2</RegBr>
+    <Naziv>M - Srednja</Naziv>
+  </Letelica>
+ <Letelica>
+    <RegBr>3</RegBr>
+    <Naziv>L - Laka</Naziv>
+  </Letelica>
+</SpisakLetelica>

@@ -1,0 +1,47 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Services;
+//
+using System.Data; 
+
+namespace KadrovskiPodaci
+{
+    /// <summary>
+    /// Summary description for Service1
+    /// </summary>
+    [WebService(Namespace = "http://tempuri.org/")]
+    [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
+    [System.ComponentModel.ToolboxItem(false)]
+    // To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
+    // [System.Web.Script.Services.ScriptService]
+    public class Service1 : System.Web.Services.WebService
+    {
+
+        [WebMethod]
+        public DataSet DajSvaOgranjcenja()
+        {
+            DataSet dsOgranicenja = new DataSet();
+            dsOgranicenja.ReadXml(Server.MapPath("~/") + "XML/OgranicenjaSistematizacije.XML");
+
+            return dsOgranicenja;
+        }
+
+
+        [WebMethod]
+        public int DajMaxBrojOperatera(string pomRegBrLetelice)
+        {
+            int MaxBrojOperatera = 0;
+            DataSet dsOgranicenja = new DataSet();
+            dsOgranicenja.ReadXml(Server.MapPath("~/") + "XML/OgranicenjaSistematizacije.XML");
+            // filtriranje dataset-a
+            DataRow[] result = dsOgranicenja.Tables[0].Select("RegBrLetelice='" + pomRegBrLetelice + "'");
+            MaxBrojOperatera = int.Parse (result[0].ItemArray[1].ToString());
+
+            return MaxBrojOperatera;
+        }
+
+       
+    }
+}

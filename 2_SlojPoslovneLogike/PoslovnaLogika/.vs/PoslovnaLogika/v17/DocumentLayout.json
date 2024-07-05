@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marko\\Desktop\\SI2 - seminarski\\EvidencijaPopravkiAviona\\2_SlojPoslovneLogike\\PoslovnaLogika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1E6C15-41E1-4AF7-AA73-B88A86A7FECF}|PoslovnaLogika\\PoslovnaLogika.csproj|c:\\users\\marko\\desktop\\si2 - seminarski\\evidencijapopravkiaviona\\2_slojposlovnelogike\\poslovnalogika\\poslovnalogika\\clsposlovnapravila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1E6C15-41E1-4AF7-AA73-B88A86A7FECF}|PoslovnaLogika\\PoslovnaLogika.csproj|solutionrelative:poslovnalogika\\clsposlovnapravila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsPoslovnaPravila.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\SI2 - seminarski\\EvidencijaPopravkiAviona\\2_SlojPoslovneLogike\\PoslovnaLogika\\PoslovnaLogika\\clsPoslovnaPravila.cs",
+              "RelativeDocumentMoniker": "PoslovnaLogika\\clsPoslovnaPravila.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\SI2 - seminarski\\EvidencijaPopravkiAviona\\2_SlojPoslovneLogike\\PoslovnaLogika\\PoslovnaLogika\\clsPoslovnaPravila.cs",
+              "RelativeToolTip": "PoslovnaLogika\\clsPoslovnaPravila.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:57:12.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

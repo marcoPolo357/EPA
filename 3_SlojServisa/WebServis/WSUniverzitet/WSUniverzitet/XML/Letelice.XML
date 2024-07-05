@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<SpisakLetelica>
+  <Letelica>
+    <RegBr>N123AB</RegBr>
+    <Naziv>H - C130 Globemaster</Naziv>
+  </Letelica>
+    <Letelica>
+    <RegBr>G-BHXY</RegBr>
+    <Naziv>M - Airbus A320</Naziv>
+  </Letelica>
+ <Letelica>
+    <RegBr>D-AFTR</RegBr>
+    <Naziv>L - Cessna 172</Naziv>
+  </Letelica>
+</SpisakLetelica>

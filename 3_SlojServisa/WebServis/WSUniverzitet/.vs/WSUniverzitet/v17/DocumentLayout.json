@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marko\\Desktop\\SI2 - seminarski\\EvidencijaPopravkiAviona\\3_SlojServisa\\WebServis\\WSUniverzitet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C24BC943-F563-4DDC-B0E1-26276268765D}|WSUniverzitet\\WSUniverzitet.csproj|c:\\users\\marko\\desktop\\si2 - seminarski\\evidencijapopravkiaviona\\3_slojservisa\\webservis\\wsuniverzitet\\wsuniverzitet\\service1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24BC943-F563-4DDC-B0E1-26276268765D}|WSUniverzitet\\WSUniverzitet.csproj|solutionrelative:wsuniverzitet\\service1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24BC943-F563-4DDC-B0E1-26276268765D}|WSUniverzitet\\WSUniverzitet.csproj|C:\\Users\\marko\\Desktop\\SI2 - seminarski\\EvidencijaPopravkiAviona\\3_SlojServisa\\WebServis\\WSUniverzitet\\wsuniverzitet\\xml\\letelice.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C24BC943-F563-4DDC-B0E1-26276268765D}|WSUniverzitet\\WSUniverzitet.csproj|solutionrelative:wsuniverzitet\\xml\\letelice.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Letelice.XML",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\SI2 - seminarski\\EvidencijaPopravkiAviona\\3_SlojServisa\\WebServis\\WSUniverzitet\\WSUniverzitet\\XML\\Letelice.XML",
+              "RelativeDocumentMoniker": "WSUniverzitet\\XML\\Letelice.XML",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\SI2 - seminarski\\EvidencijaPopravkiAviona\\3_SlojServisa\\WebServis\\WSUniverzitet\\WSUniverzitet\\XML\\Letelice.XML",
+              "RelativeToolTip": "WSUniverzitet\\XML\\Letelice.XML",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-23T11:45:02.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\SI2 - seminarski\\EvidencijaPopravkiAviona\\3_SlojServisa\\WebServis\\WSUniverzitet\\WSUniverzitet\\Service1.asmx.cs",
+              "RelativeDocumentMoniker": "WSUniverzitet\\Service1.asmx.cs",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\SI2 - seminarski\\EvidencijaPopravkiAviona\\3_SlojServisa\\WebServis\\WSUniverzitet\\WSUniverzitet\\Service1.asmx.cs",
+              "RelativeToolTip": "WSUniverzitet\\Service1.asmx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:43:45.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

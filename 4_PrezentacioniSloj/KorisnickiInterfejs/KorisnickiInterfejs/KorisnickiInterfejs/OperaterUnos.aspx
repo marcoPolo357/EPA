@@ -1,0 +1,126 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin.Master" AutoEventWireup="true" CodeBehind="OperaterUnos.aspx.cs" Inherits="KorisnickiInterfejs.OperaterUnos" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+    <style type="text/css">
+    .style1
+    {
+        width: 423px;
+    }
+    .style2
+    {
+        width: 342px;
+        text-align: right;
+    }
+    .style3
+    {
+        width: 423px;
+        font-size: large;
+    }
+    .style4
+    {
+        font-size: large;
+    }
+    .style5
+    {
+        width: 342px;
+        font-size: large;
+        text-align: right;
+    }
+</style>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <table style="width:100%;">
+    <tr>
+        <td class="style5">
+            &nbsp;</td>
+        <td class="style3">
+            <strong>UNOS OPERATERA</strong></td>
+        <td class="style4">
+            &nbsp;</td>
+    </tr>
+    <tr>
+        <td class="style2">
+            &nbsp;</td>
+        <td class="style1">
+            &nbsp;</td>
+        <td>
+            &nbsp;</td>
+    </tr>
+    <tr>
+        <td class="style2">
+            <asp:Label ID="Label1" runat="server" Text="JMBG"></asp:Label>
+        </td>
+        <td class="style1">
+            <asp:TextBox ID="txbJMBG" runat="server"></asp:TextBox>
+        </td>
+        <td>
+            &nbsp;</td>
+    </tr>
+    <tr>
+        <td class="style2">
+            <asp:Label ID="Label2" runat="server" Text="Prezime"></asp:Label>
+        </td>
+        <td class="style1">
+            <asp:TextBox ID="txbPrezime" runat="server"></asp:TextBox>
+        </td>
+        <td>
+            &nbsp;</td>
+    </tr>
+    <tr>
+        <td class="style2">
+            <asp:Label ID="Label3" runat="server" Text="Ime"></asp:Label>
+        </td>
+        <td class="style1">
+            <asp:TextBox ID="txbIme" runat="server"></asp:TextBox>
+        </td>
+        <td>
+            &nbsp;</td>
+    </tr>
+    <tr>
+        <td class="style2">
+            Letelica</td>
+        <td class="style1">
+            <asp:DropDownList ID="ddlLetelica" runat="server" Height="16px" Width="233px">
+            </asp:DropDownList>
+        </td>
+        <td>
+            &nbsp;</td>
+    </tr>
+    <tr>
+        <td class="style2">
+            &nbsp;</td>
+        <td class="style1">
+            &nbsp;</td>
+        <td>
+            &nbsp;</td>
+    </tr>
+    <tr>
+        <td class="style2">
+            &nbsp;</td>
+        <td class="style1">
+            <asp:Label ID="lblStatus" runat="server" Text="STATUS"></asp:Label>
+        </td>
+        <td>
+            &nbsp;</td>
+    </tr>
+    <tr>
+        <td class="style2">
+            &nbsp;</td>
+        <td class="style1">
+            <asp:Button ID="btnSnimi" runat="server" Text="SNIMI" Width="69px" 
+                onclick="btnSnimi_Click" />
+            <asp:Button ID="btnPonisti" runat="server" Text="PONISTI" 
+                onclick="btnPonisti_Click" />
+        </td>
+        <td>
+            &nbsp;</td>
+    </tr>
+    <tr>
+        <td class="style2">
+            &nbsp;</td>
+        <td class="style1">
+            &nbsp;</td>
+        <td>
+            &nbsp;</td>
+    </tr>
+</table>
+</asp:Content>

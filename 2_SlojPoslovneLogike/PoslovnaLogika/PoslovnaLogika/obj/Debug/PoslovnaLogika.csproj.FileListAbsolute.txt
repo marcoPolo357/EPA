@@ -1,0 +1,22 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll.config
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SE2 cas 11 grupa 2\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.pdb
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll.config
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.dll
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\PoslovnaLogika.pdb
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.dll
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.dll
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlaseMapiranja.pdb
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\bin\Debug\KlasePodataka.pdb
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.AssemblyReference.cache
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\Poslovna.5AADE7AF.Up2Date
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.dll
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\2_SlojPoslovneLogike\PoslovnaLogika\PoslovnaLogika\obj\Debug\PoslovnaLogika.pdb

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<SpisakOgranicenja>
+  <OgranicenjeLetelica>
+    <RegBrLetelice>H</RegBrLetelice>
+    <MaxBrOperatera>3</MaxBrOperatera>
+  </OgranicenjeLetelica>
+<OgranicenjeLetelica>
+    <RegBrLetelice>M</RegBrLetelice>
+    <MaxBrOperatera>2</MaxBrOperatera>
+  </OgranicenjeLetelica>
+<OgranicenjeLetelica>
+    <RegBrLetelice>L</RegBrLetelice>
+    <MaxBrOperatera>1</MaxBrOperatera>
+  </OgranicenjeLetelica>
+</SpisakOgranicenja>

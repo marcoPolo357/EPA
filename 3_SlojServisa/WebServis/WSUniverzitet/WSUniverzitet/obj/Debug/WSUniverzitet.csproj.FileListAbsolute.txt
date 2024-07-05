@@ -1,0 +1,26 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2\01cas01grupa\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2\01cas01grupa\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2\01cas01grupa\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\se2\01cas01grupa\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SK 2017_18 SE2\03 cas prva grupa\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SK 2017_18 SE2\03 cas prva grupa\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\SK 2017_18 SE2\03 cas prva grupa\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\SK 2017_18 SE2\03 cas prva grupa\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\se2cas5grupa2\RESENJE\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\se2cas5grupa2\RESENJE\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.pdb
+c:\Users\student\Documents\Visual Studio 2010\Projects\se2cas5grupa2\RESENJE\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.dll
+c:\Users\student\Documents\Visual Studio 2010\Projects\se2cas5grupa2\RESENJE\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.pdb
+C:\Users\marko\Desktop\SI2 - seminarski\SE2cas14\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll.config
+C:\Users\marko\Desktop\SI2 - seminarski\SE2cas14\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll
+C:\Users\marko\Desktop\SI2 - seminarski\SE2cas14\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.pdb
+C:\Users\marko\Desktop\SI2 - seminarski\SE2cas14\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.csproj.AssemblyReference.cache
+C:\Users\marko\Desktop\SI2 - seminarski\SE2cas14\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\SI2 - seminarski\SE2cas14\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.dll
+C:\Users\marko\Desktop\SI2 - seminarski\SE2cas14\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.pdb
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll.config
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.dll
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\bin\WSUniverzitet.pdb
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.csproj.AssemblyReference.cache
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.dll
+C:\Users\marko\Desktop\SI2 - seminarski\EvidencijaPopravkiAviona\3_SlojServisa\WebServis\WSUniverzitet\WSUniverzitet\obj\Debug\WSUniverzitet.pdb
