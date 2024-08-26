@@ -9,7 +9,8 @@ Architecture: I implemented a multilayered architecture with four distinct layer
  - Business Logic Layer: Contained the core business rules and logic, ensuring data consistency and validation.
  - Service Layer: Facilitated communication between the business logic and presentation layers, exposing RESTful services.
  - Presentational Layer: Handled user interactions and displayed data to the users.
- - Object-Oriented Design: The application was developed with a focus on encapsulation, inheritance, and polymorphism, using method overloading. Each class adhered to the Single Responsibility Principle, and dependency injection was implemented through interface classes to promote flexibility and maintainability.
+
+Object-Oriented Design: The application was developed with a focus on encapsulation, inheritance, and polymorphism, using method overloading. Each class adhered to the Single Responsibility Principle, and dependency injection was implemented through interface classes to promote flexibility and maintainability.
 
 Data Handling: I designed a relational database with at least two interconnected tables, including a user table. Stored procedures, views, and transactions were used to ensure efficient data management and integrity. The application handled multiple queries within transactions using begin transaction and commit/rollback.
 
