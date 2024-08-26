@@ -28,16 +28,28 @@ Specified use cases for data entry and tabular data display, detailing precondit
 Designed a conceptual data model to capture the high-level data relationships.
 Translated the conceptual model into a physical relational data model, ensuring efficient and structured data storage.
 
- - Object-Oriented Design: The application was developed with a focus on encapsulation, inheritance, and polymorphism, using method overloading. Each class adhered to the Single Responsibility Principle, and dependency injection was implemented through interface classes to promote flexibility and maintainability.
+ - Object-Oriented Design:
 
- - Data Handling: I designed a relational database with at least two interconnected tables, including a user table. Stored procedures, views, and transactions were used to ensure efficient data management and integrity. The application handled multiple queries within transactions using begin transaction and commit/rollback.
+The application was developed with a focus on encapsulation, inheritance, and polymorphism, using method overloading. Each class adhered to the Single Responsibility Principle, and dependency injection was implemented through interface classes to promote flexibility and maintainability.
 
- - Parameterization: To enhance security and maintainability, the connection string and decision-making parameters were stored in external files, such as XML or JSON, rather than being hardcoded.
+ - Data Handling:
 
- - Clean Code and Security: The code was written following best practices for clean coding, including comprehensive comments, meaningful identifier names, and adherence to coding conventions. 
+I designed a relational database with at least two interconnected tables, including a user table. Stored procedures, views, and transactions were used to ensure efficient data management and integrity. The application handled multiple queries within transactions using begin transaction and commit/rollback.
 
- - Security measures included password masking during login, session management, and user authentication checks on every page.
+ - Parameterization:
 
- - Localization: The user interface and code identifiers were fully localized in Serbian to meet the non-functional requirements.
+To enhance security and maintainability, the connection string and decision-making parameters were stored in external files, such as XML or JSON, rather than being hardcoded.
+
+ - Clean Code and Security:
+
+The code was written following best practices for clean coding, including comprehensive comments, meaningful identifier names, and adherence to coding conventions. 
+
+ - Security measures:
+
+Password masking during login, session management, and user authentication checks on every page.
+
+ - Localization:
+
+The user interface and code identifiers were fully localized in Serbian to meet the non-functional requirements.
 
  - This project provided me with hands-on experience in developing a robust, secure, and maintainable web application, reflecting industry standards and best practices.
